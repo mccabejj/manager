@@ -9,9 +9,9 @@ I’m here to help and support you, to set context for what you’re working on,
 - HIGH AUTONOMY.  My default mode is to let you handle your work without much guidance or direction from me.  If that makes you uncomfortable, let me know and we can work something out.
 - You’re here because of your experience and your skills and I don’t want to override either of those. I’m here to help you succeed but not dictate how you should act or make decisions.
 - If I think you’re headed down the wrong path, I’ll definitely try to dissuade you, but disagreeing with my input does not indicate that you’re doing something wrong.
-- If I do something that feels more like telling you how to do your job than setting context or helping you work through a problem, please tell me.  Cause I'm wrong.
+- If I do something that feels more like telling you how to do your job than setting context or helping you work through a problem, then please tell me.  Because I'm wrong.
 - My scope of responsibility does not enclose your scope of responsibility.
-- You are a professional, act like one.
+- You are a professional so act like one.
 
 ## [Servant Leadership](http://toservefirst.com/key-practices-of-servant-leadership.html) is important to me.
 The principles of servant leadership guide how I (attempt to) lead, manage, and interact with others.  Understand the principles and hold me accountable to them on a daily basis.
@@ -23,8 +23,7 @@ The principles of servant leadership guide how I (attempt to) lead, manage, and 
   - If you are unsure what I’m thinking, just ask.
 - I look more serious than I really am.
   - My God given face looks very serious and intense.  I'm sorry about that.
-  - I walk fast in the hallways, and because of my face I may look intimidating, but I'm really not!
-  - Trust me!
+  - I walk fast in the hallways, and because of my face I may look intimidating, but I'm really not!  Trust me!
 
 ## Software development - it's not (all) about the process
 I believe in putting people over process and changing process to accommodate the needs and goals of the team.  'Best Practices' are great, until they don't match the needs of the team.  If the needs of the team are at odds with the standard then let's agree to change the standard.  The process should support the team, not the other way around.  Here are some things I value:
@@ -41,14 +40,14 @@ I believe in putting people over process and changing process to accommodate the
 - Kindness, humility, and solid character are not optional.  Check your ego at the door so that we can do something great together.
 
 ## An open and honest feedback loop is expected.
-My job is to ensure that you give and receive feedback. In situations where anonymous feedback is suggested, you’ll probably hear me suggesting that you provide direct feedback, though anonymous feedback is better than none. I’m dedicated to giving you clear and timely feedback and hope that you’ll give me the same. I believe that feedback requires three attributes (in addition to being [kind](https://www.merriam-webster.com/dictionary/kindness)):
+My job is to ensure that you give and receive feedback. In situations where anonymous feedback is suggested, you’ll probably hear me suggesting that you provide direct feedback instead, though anonymous feedback is better than providing none. I’m dedicated to giving you clear and timely feedback and hope that you’ll give me the same. I believe that feedback requires three attributes (in addition to being [kind](https://www.merriam-webster.com/dictionary/kindness)):
 
 - Safety (you should feel safe to give and receive candid feedback)
 - Effort (neither you nor I should feel defensive about the feedback)
 - Benefit (giving/receiving feedback should have impact)
 
 ## I go home when the day is done, and you should too.
-Most people work between about 7am and 5pm, and unless there’s an emergency, I don’t expect to communicate with you outside of these hours. I will rarely _(work in progress)_ respond to e-mails, or chats (Microsoft Teams, Slack) off-hours and I don't expect you to, unless it’s an emergency or 'significant event' _(which will be made clear)_.  That said, I'm always available via phone or text should something come up.
+Most people work between the hours of 7am and 5pm, and unless there’s an emergency, I don’t expect to communicate with you outside of these hours. I will rarely _(work in progress)_ respond to e-mails, or chats (Microsoft Teams, Slack) off-hours and I don't expect you to, unless it’s an emergency or 'significant event' _(which will be made clear)_.  That said, I'm always available via phone or text should something come up.
 
 ## I value work/life balance and flexibility.
 I am busy outside of work, and so are you.  Sometimes your professional life requires some flexibility in order for your real life to be successful.  Trust me, I get it.  However, the following are still important:
